@@ -56,3 +56,11 @@ def sumar_array(numeros):
     for num in numeros:
         suma += num
     return suma
+
+def dividir(dividendo, divisor):
+    if divisor == 0:
+        print("Error: No se puede dividir por cero.")
+        return None
+    else:
+        resultado = dividendo / divisor
+        return resultado

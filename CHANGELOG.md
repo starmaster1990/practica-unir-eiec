@@ -1,3 +1,9 @@
+## Version: 0.0.4
+### Author: ronnyPernod
+### Date: 2024-05-03
+### Description:
+ se crea funcion dividir
+ 
 ## Version: 0.0.3
 ### Author: ronnytigrero2
 ### Date: 2024-05-03
