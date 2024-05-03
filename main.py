@@ -48,6 +48,9 @@ if __name__ == "__main__":
 
     print(sort_list(word_list))
 
+def multiplicar(a, b):
+    return a * b
+
 def sumar_array(numeros):
     suma = 0
     for num in numeros:
