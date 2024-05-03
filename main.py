@@ -47,3 +47,17 @@ if __name__ == "__main__":
         word_list = remove_duplicates_from_list(word_list)
 
     print(sort_list(word_list))
+
+
+
+
+
+
+
+def dividir(dividendo, divisor):
+    if divisor == 0:
+        print("Error: No se puede dividir por cero.")
+        return None
+    else:
+        resultado = dividendo / divisor
+        return resultado
